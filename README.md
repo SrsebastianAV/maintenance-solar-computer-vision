@@ -1,2 +1,2 @@
-# maintenance-solar-computer-vision
+# Information of maintenance-solar-computer-vision
 Repositorio provisional para cv paper
